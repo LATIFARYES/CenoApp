@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		272E9DA02B20936B0062C66E /* MAINPAGE.swift in Sources */ = {isa = PBXBuildFile; fileRef = 272E9D9F2B20936B0062C66E /* MAINPAGE.swift */; };
 		5F6BDF5B2B1F68980068D517 /* Avatar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F6BDF5A2B1F68980068D517 /* Avatar.swift */; };
 		5F6BDF5F2B1F6AB90068D517 /* AchivmentPop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F6BDF5E2B1F6AB90068D517 /* AchivmentPop.swift */; };
 		5F6BDF612B1F6D3D0068D517 /* Scenario.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F6BDF602B1F6D3D0068D517 /* Scenario.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		272E9D9F2B20936B0062C66E /* MAINPAGE.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MAINPAGE.swift; sourceTree = "<group>"; };
 		5F6BDF5A2B1F68980068D517 /* Avatar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Avatar.swift; sourceTree = "<group>"; };
 		5F6BDF5E2B1F6AB90068D517 /* AchivmentPop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchivmentPop.swift; sourceTree = "<group>"; };
 		5F6BDF602B1F6D3D0068D517 /* Scenario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scenario.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				956241202B1F652E00549CE4 /* CenoAppApp.swift */,
 				956241222B1F652E00549CE4 /* ContentView.swift */,
 				5F6BDF5A2B1F68980068D517 /* Avatar.swift */,
+				272E9D9F2B20936B0062C66E /* MAINPAGE.swift */,
 				956241242B1F652F00549CE4 /* Assets.xcassets */,
 				5F6BDF5E2B1F6AB90068D517 /* AchivmentPop.swift */,
 				5F6BDF602B1F6D3D0068D517 /* Scenario.swift */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5F6BDF5B2B1F68980068D517 /* Avatar.swift in Sources */,
+				272E9DA02B20936B0062C66E /* MAINPAGE.swift in Sources */,
 				956241232B1F652E00549CE4 /* ContentView.swift in Sources */,
 				956241212B1F652E00549CE4 /* CenoAppApp.swift in Sources */,
 				5F6BDF612B1F6D3D0068D517 /* Scenario.swift in Sources */,
