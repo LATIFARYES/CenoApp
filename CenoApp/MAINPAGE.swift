@@ -25,7 +25,7 @@ var body: some View {
                 .navigationBarTitleDisplayMode(.large)
                 
              VStack(spacing: 10){
-                 Text("L")
+                
                 Text("Paths")
                     .font(.system(size: 28))
                   .fontWeight(.bold)
